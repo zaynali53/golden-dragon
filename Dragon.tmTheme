@@ -124,6 +124,8 @@
             <string>constant.numeric</string>
             <key>settings</key>
             <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
                 <key>foreground</key>
                 <string>#A7DBD8</string>
             </dict>
@@ -136,6 +138,8 @@
             <string>constant.language</string>
             <key>settings</key>
             <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -169,6 +173,8 @@
             <string>variable.other.property.php</string>
             <key>settings</key>
             <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
                 <key>foreground</key>
                 <string>#ffffff</string>
             </dict>
@@ -177,7 +183,20 @@
             <key>name</key>
             <string>PHP: Function Call</string>
             <key>scope</key>
-            <string>meta.function-call.php, meta.function-call.static.php, meta.function-call.object.php</string>
+            <string>meta.function-call.static.php, meta.function-call.object.php</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#69D2E7</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PHP: Function Call</string>
+            <key>scope</key>
+            <string>meta.function-call.php</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -217,6 +236,17 @@
                 <string>#A7DBD8</string>
             </dict>
         </dict>
+         <dict>
+            <key>name</key>
+            <string>Keyword</string>
+            <key>scope</key>
+            <string>keyword.operator</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#afafaf</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>Storage</string>
@@ -224,8 +254,6 @@
             <string>storage</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
                 <string>#FA6900</string>
             </dict>
@@ -237,8 +265,6 @@
             <string>storage.type</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -250,8 +276,6 @@
             <string>entity.name.class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>underline</string>
                 <key>foreground</key>
                 <string>#69D2E7</string>
             </dict>
@@ -263,8 +287,6 @@
             <string>entity.other.inherited-class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic underline</string>
                 <key>foreground</key>
                 <string>#69D2E7</string>
             </dict>
@@ -276,8 +298,6 @@
             <string>entity.name.function</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
                 <string>#69D2E7</string>
             </dict>
@@ -289,8 +309,6 @@
             <string>variable.parameter</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -302,8 +320,6 @@
             <string>entity.name.tag</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -315,8 +331,6 @@
             <string>entity.other.attribute-name</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
                 <string>#A7DBD8</string>
             </dict>
@@ -328,8 +342,6 @@
             <string>support.function</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
                 <string>#A7DBD8</string>
             </dict>
@@ -341,8 +353,6 @@
             <string>support.constant</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -354,8 +364,6 @@
             <string>support.type, support.class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -380,7 +388,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string> bold</string>
+                <string>bold</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -415,7 +423,7 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string> bold</string>
+                <string>bold</string>
                 <key>foreground</key>
                 <string>#69D2E7</string>
             </dict>
