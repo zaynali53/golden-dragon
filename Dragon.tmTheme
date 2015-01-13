@@ -81,7 +81,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F6624A</string>
+                <string>#F3AC9A</string>
             </dict>
         </dict>
         <dict>
@@ -124,8 +124,6 @@
             <string>constant.numeric</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#A7DBD8</string>
             </dict>
@@ -138,8 +136,6 @@
             <string>constant.language</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -173,8 +169,6 @@
             <string>variable.other.property.php</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#ffffff</string>
             </dict>
@@ -186,8 +180,6 @@
             <string>meta.function-call.static.php, meta.function-call.object.php</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#69D2E7</string>
             </dict>
@@ -387,8 +379,6 @@
             <string>punctuation.definition.dictionary.begin.json, punctuation.definition.dictionary.end.json</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#F38630</string>
             </dict>
@@ -401,7 +391,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#CFCFCF</string>
+                <string>#F3AC9A</string>
             </dict>
         </dict>
         <dict>
@@ -422,8 +412,6 @@
             <string>punctuation.definition.array.begin.json, punctuation.definition.array.end.json</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
                 <key>foreground</key>
                 <string>#69D2E7</string>
             </dict>
