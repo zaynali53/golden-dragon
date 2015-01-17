@@ -1,9 +1,9 @@
 <!--
-    //   Dragon Theme for Sublime Text
-    //   https://github.com/zaynali53/Dragon
-    //
-    //   by Zayn Ali
-    //   https://www.facebook.com/zaynali53
+    Dragon Theme for Sublime Text
+    https://github.com/zaynali53/Dragon
+
+    by Zayn Ali
+    https://www.facebook.com/zaynali53
 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -59,7 +59,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66cccc</string>
+                <string>#e2703f</string>
             </dict>
         </dict>
         <dict>
@@ -158,8 +158,8 @@
             <string>variable</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
+                <key>foreground</key>
+                <string>#e0e0e0</string>
             </dict>
         </dict>
         <dict>
@@ -170,7 +170,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ffffff</string>
+                <string>#ffb17a</string>
             </dict>
         </dict>
         <dict>
