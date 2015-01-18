@@ -1,6 +1,6 @@
 
 # Golden Dragon
-A Dark Sublime text Color Scheme.
+A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 
 ![golden dragon](https://cloud.githubusercontent.com/assets/8646770/5792283/de5b1e0e-9f32-11e4-8e5f-67ef48bcfda6.jpg)
 
