@@ -9,7 +9,7 @@ A Dark Sublime text Color Scheme.
 ####Package Control:
 
 1. Make sure you already have Package Control installed
-2. Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on OS X)
+2. Choose Install Package from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Select `Golden Dragon Color Scheme` and press **`Enter`**
 
 ####Manually:
