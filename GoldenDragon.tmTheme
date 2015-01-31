@@ -75,6 +75,19 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>PHP: Comment</string>
+            <key>scope</key>
+            <string>keyword.other.phpdoc</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#989898</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>String</string>
             <key>scope</key>
             <string>string</string>
