@@ -158,7 +158,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8F8F8F</string> <!--php $ color-->
+                <string>#989898</string> <!--php $ color-->
             </dict>
         </dict>
         <dict>
