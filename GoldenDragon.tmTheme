@@ -27,7 +27,7 @@
                 <key>lineHighlight</key>
                 <string>#2D2D2D</string>
                 <key>selection</key>
-                <string>#3f484d</string>
+                <string>#2D2D2D</string>
                 <key>findHighlight</key>
                 <string>#FFE792</string>
                 <key>findHighlightForeground</key>
@@ -70,7 +70,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#444</string>
+                <string>#464646</string>
             </dict>
         </dict>
         <dict>
@@ -428,6 +428,64 @@
                 <string>#69D2E7</string>
             </dict>
         </dict>
+
+        <dict>
+            <key>name</key>
+            <string>JS: Function</string>
+            <key>scope</key>
+            <string>storage.type.function.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: []</string>
+            <key>scope</key>
+            <string>meta.brace.square.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: ()</string>
+            <key>scope</key>
+            <string>meta.brace.round, punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: {}</string>
+            <key>scope</key>
+            <string>meta.brace.curly.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Numeric Constant</string>
+            <key>scope</key>
+            <string>constant.numeric.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#69D2E7</string>
+            </dict>
+        </dict>
+
+
 
         <dict>
             <key>name</key>
