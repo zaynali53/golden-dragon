@@ -20,13 +20,13 @@ A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 <br>
 
 #### HTML View
-![html-view](https://cloud.githubusercontent.com/assets/8646770/5796649/5d55b95e-9fcd-11e4-80d2-0a79814a1bdd.PNG)
+![html_view](https://cloud.githubusercontent.com/assets/8646770/5992157/9eadb06c-aa3d-11e4-8ab3-3370fa217d4a.PNG)
 
 #### PHP View
-![php-view](https://cloud.githubusercontent.com/assets/8646770/5986450/f92d554e-a919-11e4-820a-e774373ec5db.png)
+![php_view](https://cloud.githubusercontent.com/assets/8646770/5992154/7c7f9dfc-aa3d-11e4-87af-0f07f3f0bffc.PNG)
 
 #### JS View
-![js-view](https://cloud.githubusercontent.com/assets/8646770/5796645/5230d5b8-9fcd-11e4-85d4-1b238852881a.PNG)
+![js_view](https://cloud.githubusercontent.com/assets/8646770/5992152/6e7fbd90-aa3d-11e4-8842-f46b46299273.PNG)
 
 #License
 
