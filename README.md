@@ -23,10 +23,10 @@ A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 ![html_view](https://cloud.githubusercontent.com/assets/8646770/5992157/9eadb06c-aa3d-11e4-8ab3-3370fa217d4a.PNG)
 
 #### PHP View
-![php_view](https://cloud.githubusercontent.com/assets/8646770/5992154/7c7f9dfc-aa3d-11e4-87af-0f07f3f0bffc.PNG)
+![php-view](https://cloud.githubusercontent.com/assets/8646770/6016166/88e2246c-ab9f-11e4-8d97-f59682e8ae3b.PNG)
 
 #### JS View
-![js_view](https://cloud.githubusercontent.com/assets/8646770/5992152/6e7fbd90-aa3d-11e4-8842-f46b46299273.PNG)
+![js-view](https://cloud.githubusercontent.com/assets/8646770/6016169/9251a004-ab9f-11e4-81db-0b180ec269b8.PNG)
 
 #License
 
