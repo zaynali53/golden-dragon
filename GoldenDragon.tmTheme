@@ -138,7 +138,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#A7DBD8</string>
+                <string>#2EBF7E</string>
             </dict>
         </dict>
         <dict>
@@ -215,7 +215,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#69D2E7</string>
+                <string>#2EBF7E</string>
             </dict>
         </dict>
         <dict>
@@ -297,6 +297,39 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>PHP Namespaces</string>
+            <key>scope</key>
+            <string>support.other.namespace, entity.name.type.namespace</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BEBEBE</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PHP Namespace Alias</string>
+            <key>scope</key>
+            <string>support.other.namespace.use-as.php</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PHP Namespace Separator</string>
+            <key>scope</key>
+            <string>punctuation.separator.inheritance.php</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#707070</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Function name</string>
             <key>scope</key>
             <string>entity.name.function</string>
@@ -347,7 +380,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#A7DBD8</string>
+                <string>#2EBF7E</string>
             </dict>
         </dict>
         <dict>
@@ -473,18 +506,6 @@
                 <string>#ffffff</string>
             </dict>
         </dict>
-        <dict>
-            <key>name</key>
-            <string>JS: Numeric Constant</string>
-            <key>scope</key>
-            <string>constant.numeric.js</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#69D2E7</string>
-            </dict>
-        </dict>
-
 
 
         <dict>
