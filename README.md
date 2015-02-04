@@ -1,5 +1,5 @@
 
-# Golden Dragon
+# Golden Dragon Color Scheme
 A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 
 ![golden dragon](https://cloud.githubusercontent.com/assets/8646770/5792283/de5b1e0e-9f32-11e4-8e5f-67ef48bcfda6.jpg)
@@ -20,13 +20,19 @@ A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 <br>
 
 #### HTML View
-![html_view](https://cloud.githubusercontent.com/assets/8646770/5992157/9eadb06c-aa3d-11e4-8ab3-3370fa217d4a.PNG)
+![html-view](https://cloud.githubusercontent.com/assets/8646770/6034702/e1558e88-ac47-11e4-9b47-b185c91246bb.PNG)
 
-#### PHP View
-![php-view](https://cloud.githubusercontent.com/assets/8646770/6016252/176608ce-aba1-11e4-8934-e0d75534e2c9.PNG)
+#### CSS View
+![css-view](https://cloud.githubusercontent.com/assets/8646770/6034707/ee84cc22-ac47-11e4-8508-33d62deb9902.PNG)
 
 #### JS View
-![js-view](https://cloud.githubusercontent.com/assets/8646770/6016255/216a1004-aba1-11e4-8466-b19695141e5b.PNG)
+![js-view](https://cloud.githubusercontent.com/assets/8646770/6034712/fa6ede7e-ac47-11e4-9c12-5ea437161146.PNG)
+
+#### PHP View
+![php-view](https://cloud.githubusercontent.com/assets/8646770/6034716/06789f20-ac48-11e4-8406-7660b9fbaa5d.PNG)
+
+#### JSON View
+![json-view](https://cloud.githubusercontent.com/assets/8646770/6034719/129e3d0a-ac48-11e4-9104-45401de9595e.PNG)
 
 #License
 
