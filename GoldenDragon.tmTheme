@@ -383,7 +383,7 @@
             <key>name</key>
             <string>PHP: Operators</string>
             <key>scope</key>
-            <string>keyword.operator.arithmetic.php, keyword.operator.bitwise.php, keyword.operator.comparison.php, keyword.operator.increment-decrement.php, keyword.operator.logical.php</string>
+            <string>keyword.operator.arithmetic.php, keyword.operator.bitwise.php, keyword.operator.increment-decrement.php</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -403,9 +403,9 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>PHP: Operators (Class)</string>
+            <string>PHP: Operators (Class, Class Type)</string>
             <key>scope</key>
-            <string>keyword.operator.class.php</string>
+            <string>keyword.operator.class.php, keyword.operator.type.php, keyword.operator.logical.php, keyword.operator.comparison.php</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
