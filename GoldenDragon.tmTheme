@@ -521,7 +521,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#989898</string>
+                <string>#F1B98E</string>
             </dict>
         </dict>
         <dict>
@@ -533,6 +533,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#2EBF7E</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: Selector Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.entity.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#AEAEAE</string>
             </dict>
         </dict>
         <dict>
@@ -581,24 +592,24 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>CSS: Value Unit</string>
+            <string>CSS: Value Unit, (!important)</string>
             <key>scope</key>
             <string>keyword.other.unit.css</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F38630</string>
+                <string>#f4645f</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
-            <string>CSS: Value Unit (!important)</string>
+            <string>CSS: (!important)</string>
             <key>scope</key>
             <string>keyword.other.important.css</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F54A4A</string>
+                <string>#EE3F3F</string>
             </dict>
         </dict>
         <dict>
@@ -610,6 +621,50 @@
             <dict>
                 <key>foreground</key>
                 <string>#CCA300</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: function brackets</string>
+            <key>scope</key>
+            <string>punctuation.section.function.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DFDFDF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: RGB values</string>
+            <key>scope</key>
+            <string>constant.other.color.rgb-value.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F1B98E</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: RGB value punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.constant.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f4645f</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: Font Name</string>
+            <key>scope</key>
+            <string>support.constant.font-name.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#AEAEAE</string>
             </dict>
         </dict>
 
