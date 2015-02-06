@@ -23,7 +23,7 @@ A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 ![html-view](https://cloud.githubusercontent.com/assets/8646770/6034702/e1558e88-ac47-11e4-9b47-b185c91246bb.PNG)
 
 #### CSS View
-![css-view](https://cloud.githubusercontent.com/assets/8646770/6034707/ee84cc22-ac47-11e4-8508-33d62deb9902.PNG)
+![css-view](https://cloud.githubusercontent.com/assets/8646770/6074599/bb1e1f62-ade3-11e4-8512-acca97d76dc9.PNG)
 
 #### JS View
 ![js-view](https://cloud.githubusercontent.com/assets/8646770/6034712/fa6ede7e-ac47-11e4-9c12-5ea437161146.PNG)
