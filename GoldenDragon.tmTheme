@@ -570,6 +570,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>CSS: Key Value (Seperator & Terminator)</string>
+            <key>scope</key>
+            <string>punctuation.separator.key-value.css, punctuation.terminator.rule.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DFDFDF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>CSS: Value Unit</string>
             <key>scope</key>
             <string>keyword.other.unit.css</string>
@@ -588,6 +599,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#F54A4A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS: Pseudo Class</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.pseudo-class.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#CCA300</string>
             </dict>
         </dict>
 
