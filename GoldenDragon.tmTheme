@@ -725,9 +725,20 @@
         -->
         <dict>
             <key>name</key>
-            <string>JS: Global variable</string>
+            <string>JS: Global Variables</string>
             <key>scope</key>
             <string>variable.language.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Console Functions</string>
+            <key>scope</key>
+            <string>support.function.firebug.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -797,7 +808,18 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2EBF7E</string>
+                <string>#bdc3c7</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Key Value Separater</string>
+            <key>scope</key>
+            <string>punctuation.separator.key-value.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
             </dict>
         </dict>
         <dict>
@@ -830,12 +852,12 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#bdc3c7</string>
+                <string>#DFDFDF</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
-            <string>JS: Function Parameter Seperater</string>
+            <string>JS: Function Parameter Separater</string>
             <key>scope</key>
             <string>punctuation.separator.parameter.function.js</string>
             <key>settings</key>
@@ -852,7 +874,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#bdc3c7</string>
+                <string>#ffffff</string>
             </dict>
         </dict>
         <dict>
