@@ -747,6 +747,61 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>JS: Object Instance</string>
+            <key>scope</key>
+            <string>meta.instance.constructor</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bdc3c7</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Constructor Name</string>
+            <key>scope</key>
+            <string>entity.name.type.new.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FA6900</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Object Name</string>
+            <key>scope</key>
+            <string>variable.other.class.js, variable.other.object.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FA6900</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Object Properties</string>
+            <key>scope</key>
+            <string>meta.property.object.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Object Keys</string>
+            <key>scope</key>
+            <string>string.unquoted.label.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#2EBF7E</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>JS: Control</string>
             <key>scope</key>
             <string>keyword.control.js</string>
@@ -765,6 +820,39 @@
             <dict>
                 <key>foreground</key>
                 <string>#F38630</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Function Parameters</string>
+            <key>scope</key>
+            <string>variable.parameter.function.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bdc3c7</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Function Parameter Seperater</string>
+            <key>scope</key>
+            <string>punctuation.separator.parameter.function.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: this Keyword</string>
+            <key>scope</key>
+            <string>variable.language.this.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bdc3c7</string>
             </dict>
         </dict>
         <dict>
