@@ -35,7 +35,7 @@ A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 ![json-view](https://cloud.githubusercontent.com/assets/8646770/6034719/129e3d0a-ac48-11e4-9104-45401de9595e.PNG)
 
 #### React JS View
-Optimized for [Babel](https://github.com/babel/babel-sublime) (also known as 6to5-sublime) JavaScript syntax highlighter.
+Optimized for [Babel](https://packagecontrol.io/packages/Babel) (also known as 6to5-sublime) JavaScript syntax highlighter.
 
 ![reactjs](https://cloud.githubusercontent.com/assets/8646770/6386994/134985a2-bda5-11e4-91e2-f941fb97f9be.PNG)
 
