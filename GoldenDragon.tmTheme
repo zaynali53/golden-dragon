@@ -17,7 +17,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#191919</string>
+                <string>#141414</string>
                 <key>caret</key>
                 <string>#66cccc</string>
                 <key>foreground</key>
@@ -462,6 +462,28 @@
                                         HTML
         ======================================================================
         -->
+        <dict>
+            <key>name</key>
+            <string>HTML: DOCTYPE Braces</string>
+            <key>scope</key>
+            <string>punctuation.definition.tag.html</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#dddddd</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>HTML: DOCTYPE</string>
+            <key>scope</key>
+            <string>meta.tag.sgml.doctype.html</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F38630</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>HTML: Tag name</string>
@@ -914,11 +936,22 @@
             <key>name</key>
             <string>JS: ()</string>
             <key>scope</key>
-            <string>meta.brace.round, punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js</string>
+            <string>meta.group.braces.round</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
                 <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JS: Function empty arguments call ()</string>
+            <key>scope</key>
+            <string>meta.function-call.without-arguments.js, meta.group.braces.round.function.arguments.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cccccc</string>
             </dict>
         </dict>
         <dict>
