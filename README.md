@@ -4,20 +4,18 @@ A Dark Sublime text Color Scheme by [@zaynali53](https://twitter.com/zaynali53)
 
 ![golden dragon](https://cloud.githubusercontent.com/assets/8646770/5792283/de5b1e0e-9f32-11e4-8e5f-67ef48bcfda6.jpg)
 
-#Installation:
+## Installation:
 
-####Package Control:
+#### Package Control:
 
 1. Make sure you already have Package Control installed
 2. Choose Install Package from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Select `Golden Dragon Color Scheme` and press **`Enter`**
 
-####Manually:
+#### Manually:
 
 1. Clone the repo to your Packages folder.
 2. Activate the colour scheme via Preferences -> Color Scheme -> Golden Dragon Color Scheme -> GoldenDragon
-
-<br>
 
 #### HTML View
 ![html-view](https://cloud.githubusercontent.com/assets/8646770/6034702/e1558e88-ac47-11e4-9b47-b185c91246bb.PNG)
@@ -39,7 +37,7 @@ Optimized for [Babel](https://packagecontrol.io/packages/Babel) (also known as 6
 
 ![reactjs](https://cloud.githubusercontent.com/assets/8646770/6386994/134985a2-bda5-11e4-91e2-f941fb97f9be.PNG)
 
-#License
+# License
 
 Copyright © 2015 Zayn Ali ([@zaynali53](https://twitter.com/zaynali53))
 
